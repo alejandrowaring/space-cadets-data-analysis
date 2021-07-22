@@ -30,3 +30,9 @@ Breakdown (tasks)
 - Plot per location since some countries might be significantly cheaper
 - Scatterplot of cost of launch vs time to predict reasonable price/person
 - What is considered reasonable
+
+Task breakdown 
+- Cost related data = Nikunj 
+- Countries launching when who = Alex 
+- Public vs Private = Caitlin 
+- RELIABILITY STATISTICS - Chipampe
