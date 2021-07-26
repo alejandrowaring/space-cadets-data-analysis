@@ -1,0 +1,16 @@
+﻿Vehicle  ,Operator,Year of First Launch,Total 2017 Launches,Active Launch Sites,Mass to LEO kg ,Mass to SSO kg ,Mass to GTO kg ,Est Min Prce , Estimated Price per
+Antares,Orbital ATK,2013,1,MARS,"3,500-7,000 ","2,100-3,400 ",N/A ,"$80,000,000.00","$85,000,000"
+Atlas V ,ULA and LMCLS,2002,6,CCAFS-VAFB,"8,123-18,814 ","6,424-15,179","3,460-8,900 ","$110,000,000.00","$230,000,000"
+Electron,Rocket Lab,2017,1,PSCA MAHIA . NZ,150,N/A,$4.9M,"$164,000,000.00","$400,000,000"
+Falcon 9,SpaceX,2010,18,CCAFS-VAFB-KSC,"13,150",N/A,"4,850","$61,200,000",N/A
+Minotaur-C,Orbital ATK,2017,1,CCAFS-MARS-VAFB-WFF,"1,278-1,458 ","912-1,054 ",N/A ,"$40,000,000.00","$50,000,000"
+Pegasus XL ,Orbital ATK,1994,0,CCAFS-KWAJALEIN-VAFB-WFF,450,325,N/A ,"$40,000,000",N/A
+Aplha,Firefly Aerospace,N/A,N/A,N/A,"1,000",650,N/A ,"$10,000,000",N/A
+Cab-3A,CubeCeb,2017,N/A,N/A,5,N/A,N/A ,"$250,000",N/A
+Falcon-Heavy,SpaceX,2017,N/A,KSC VAFB,"63,800",N/A,"26,700","$270,000,000",N/A
+LauncherOne,Virgin Orbit,2017,N/A,Spaceport America,500,300,N/A ,"$10,000,000",N/A
+New Glenn,Blue Origin,2020,N/A,CCAFS,"45,000",N/A,"13,000",,N/A
+NGL,Orbital ATK,2021,N/A,"KSC, VAFB",N/A,N/A,"8,500",,N/A
+Stratolaunch,Stratolaunch Systems,2018,N/A,Mojave KSC,"3,000","1,400",N/A ,,N/A
+Vector R/H,Vector Space Systems,2017,N/A,CCAFS PSCA,60-110 ,40-75 ,N/A ,"$3,000,000",N/A
+Vulcan,ULA,2019,N/A,CCAFS VAFB,"9,370-18,510 ","7,724-15,179 ","4,750-8,900 ","$85,000,000.00","$172,500,000"
