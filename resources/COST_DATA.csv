@@ -1,4 +1,4 @@
-﻿Vehicle  ,Operator,Year of First Launch,Total 2017 Launches,Active Launch Sites,Min Mass to LEO KG ,Max Mass to LEO kg ,Min Mass to Sso kg ,Max Mass to SSO kg ,Min Mass to GTO kg ,Max Mass to GTO kg ,Est Min Prce , Estimated Price per
+﻿Vehicle,Operator,Year_of_First_Launch,Total_2017_Launches,Active_Launch_Sites,Min_Mass_to_LEO_KG,Max_Mass_to_LEO_kg,Min_Mass_to_Sso_kg,Max_Mass_to_SSO_kg,Min_Mass_to_GTO_kg,Max_Mass_to_GTO_kg,Cost_Min,Cost_Max
 Antares,Orbital ATK,2013,1,MARS,3500,7000,2100,"3,400",,,"$80,000,000.00","$85,000,000"
 Atlas V ,ULA and LMCLS,2002,6,CCAFS-VAFB,8123,18814,6424,"15,179","3,460","8,900","$110,000,000.00","$230,000,000"
 Electron,Rocket Lab,2017,1,PSCA MAHIA . NZ,,150,,,$4.9M,,"$164,000,000.00","$400,000,000"
