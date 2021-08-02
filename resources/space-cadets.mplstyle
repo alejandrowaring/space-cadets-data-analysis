@@ -6,11 +6,7 @@ xtick.labelsize : 16
 ytick.labelsize : 16
 figure.facecolor: white
 #figure.facecolor : '0.75'
-<<<<<<< HEAD
 axes.facecolor: white
-=======
-axes.facecolor: black 
->>>>>>> 5c30f73f3d53bbc1f3f47a7b7c82bb19ff00343e
 xtick.direction: out
 ytick.direction: out
 legend.fontsize: 14
