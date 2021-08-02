@@ -17,6 +17,9 @@ Looking at different sources of space related data available to answer the quest
 - Look at the difficulties and costs related(medical, $/kg of past launches)
 - Give a rough estimate of the decade we should be able to do it
 
+Presentation Link
+
+https://docs.google.com/presentation/d/1E0_q7kgC-63YzVMjif6D4mpUxpTkMOeKzHZIhAoLQGs/edit?usp=sharing
 
 Breakdown (tasks)
  
